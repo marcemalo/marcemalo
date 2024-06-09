@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containe{
+   display: flex;
+}
+
+.header{
+    width: 100%;
+    height: 79px;
+    background: rgb(0, 0, 0);
+}
+.container{
+    max-width: 1250px;
+    margin: 0 auto;
+    height: 100%;
+}
+.header__wrapper{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.log__btn{
+    width: 100%;
+    height: 49px;
+    max-width: 150px;
+    background-color: yellow;
+    border-radius: 10px;
+    font-size: 28px;
+}
+.reg__btn{
+    width: 100%;
+    height: 49px;
+    max-width: 150px;
+    background-color: yellow;
+    border-radius: 10px;
+    font-size: 28px;
+
+}
+.header__btn{
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    gap: 0 20px;
+  
+}

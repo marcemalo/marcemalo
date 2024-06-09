@@ -1,0 +1,18 @@
+.form{
+    height: 460px;
+    max-width: 350px;
+    background-color: yellow;
+}
+.register-form>input{
+
+   max-width: 340px; 
+    height: 40px;
+    
+}
+.register-form{
+    height: 450px;
+    max-width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blue;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/dashboard.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <div class="logo__text">Dashboard</div>
+            <div class="user-info">
+                <p>Ibrokhim Jalalov</p>
+                <p>Author</p>
+            </div>
+            <button class="create-post-btn">Create Post</button>
+            <button class="sign-out-btn">Sign Out?</button>
+        </div>
+        <div class="main-content">
+            <h1>Create New Post</h1>
+            <form id="post-form">
+                <label for="post-title">Post title</label>
+                <input type="text" id="post-title" name="post-title" required>
+
+                <label for="post-image">Post image</label>
+                <input type="url" id="post-image" name="post-image" placeholder="Image URL">
+
+                <label for="post-tag">Post tag</label>
+                <input type="text" id="post-tag" name="post-tag">
+
+                <label for="post-description">Post description</label>
+                <textarea id="post-description" name="post-description" rows="10" required></textarea>
+
+                <button type="submit" class="submit-btn"><a href="./index.html">Create Post</a></button>
+            </form>
+        </div>
+    </div>
+    <script src="./script/dashboard.js"></script>
+</body>
+</html>
