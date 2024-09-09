@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @marcemalo
-- 👀 I’m interested in it
-- 🌱 I’m currently learning english
-- 💞️ I’m looking to collaborate on bu
-- 📫 How to reach me r
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Ismoiljon
+- 👀 I’m interested in Crypto
+- 🌱 I’m currently stydying in "Najot Talim"
+- 📫 How to reach me: mmb08092012@gmail.com
+- ⚡ Fun fact: Do you know me
 
 Languages and Tools I work with:
 
